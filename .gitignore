@@ -1,2 +1,4 @@
 test_show_bytes
 bin/
+*.o
+*.s
